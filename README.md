@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 - golang
 - AI
 
+![stat](https://github-readme-stats.vercel.app/api?username=mahdidadashzadeh&show_icons=true&theme=radical)
+
