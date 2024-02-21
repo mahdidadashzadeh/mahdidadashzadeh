@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### iam full stack developer
+## my ability
+- html
+- css
+- js
+- react
+- python
+- java
+- c++
+- c#
+- perl
+- dart
+- golang
+- AI
+
