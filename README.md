@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### iam full stack developer
+### i am full stack developer
 ## my ability
 - html
 - css
